@@ -13,3 +13,11 @@ This Repo contains my files and other documents that make up the first project i
 Description of the files
 ---
 
+    1.IPython Notebook : P1.ipynb    
+    2.Test images provided : test_images directory
+    3.Test images output directory : test_images_output directory
+    4.Videos provided : test_videos directory
+    5.Output Videos : test_videos_output directory
+    6.Write-UP File : writeup_chk.md
+    7.Desired output : examples directory
+    
